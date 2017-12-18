@@ -21,7 +21,7 @@ var db = mongoose.connection;
 
 // var uristring =
 //   process.env.MONGODB_URI ||
-//   'mongodb://<cangon86>:<Carlos333>@ds041140.mlab.com:41140/js-app',
+//   'mongodb://::ADD MLAB DATABASE::',
 //   db,
 //   users,
 //   posts;
