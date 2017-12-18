@@ -1,4 +1,4 @@
-# Isomorphic_app
+# Isomorphic Blog Application
 Basic blog application with user auth built entirely with Javascript
 
 # Demo  <a href="https://arcane-mesa-98949.herokuapp.com/"> here </a>
@@ -7,6 +7,10 @@ Basic blog application with user auth built entirely with Javascript
 
 The repository contains all the source files to run the `The Blog app`.
 
+Routes
+Models
+Views
+Controllers
 
 ```bash
 git clone https://github.com/carlosangon/Isomorphic_ap
